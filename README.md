@@ -5,9 +5,13 @@ This project explores different machine learning techniques to identify fraudule
 🤖 Models Used
 
 | Model | Type | Description |
+
 | Neural Network | Supervised | Learns from labeled fraud examples |
+
 | Isolation Forest | Unsupervised | Flags unusual transactions as anomalies |
+
 | K-Means | Unsupervised | Clusters transactions into normal vs suspicious |
+
 | One-Class SVM | Semi-supervised | Learns boundary around normal transactions |
 
 🛠️ Technologies Used
