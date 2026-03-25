@@ -1,7 +1,9 @@
 📌 About the Project
+
 This project explores different machine learning techniques to identify fraudulent transactions in a credit card dataset. It compares how well each model performs at catching fraud.
 
 🤖 Models Used
+
 | Model | Type | Description |
 | Neural Network | Supervised | Learns from labeled fraud examples |
 | Isolation Forest | Unsupervised | Flags unusual transactions as anomalies |
